@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'freefpf'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.list_type_pi1">free FPF</label>
+			<label index="tt_content.pi_flexform.sheet_general">General Settings</label>
+			<label index="tt_content.pi_flexform.file_chooser">Select images or flash files</label>
+			<label index="tt_content.pi_flexform.use_path">Use custom path instead</label>
+ 			<label index="tt_content.pi_flexform.path">Images dir path</label>
+ 			<label index="tt_content.pi_flexform.allowed_ext">Allowed file extensions (comma sep.)</label>
+ 			<label index="tt_content.pi_flexform.allowed_ext">Allowed file extensions (comma sep.)</label>
+ 			<label index="tt_content.pi_flexform.page_width">Width of single page</label>
+ 			<label index="tt_content.pi_flexform.page_height">Height of single page</label>
+ 			<label index="tt_content.pi_flexform.bgcolor">Background color</label>
+ 			<label index="tt_content.pi_flexform.loadercolor">Loader color</label>
+ 			<label index="tt_content.pi_flexform.panelcolor">Panel color</label>
+ 			<label index="tt_content.pi_flexform.buttoncolor">Button color</label>
+ 			<label index="tt_content.pi_flexform.textcolor">Text color</label>
+ 			<label index="tt_content.pi_flexform.debug">Display debug output in frontend</label>
+ 			<label index="tt_content.pi_flexform.debug_b">Display debug output in backend</label>
+ 			<label index="tt_content.pi_flexform.change">Change me (or something else here in flexform) and click 'save' in order to regenerate gallery for frontend</label>
+		</languageKey>
+	</data>
+</T3locallang>
